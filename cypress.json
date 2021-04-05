@@ -1,0 +1,5 @@
+{
+  "baseUrl": "https://reqres.in",
+  "integrationFolder": "cypress/all-tests",
+  "projectId": "pg16sv"
+}
